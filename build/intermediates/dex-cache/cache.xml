@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_da81a97a7f6cbaf4b0dc6c67b3a889fb52310bbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_ad7d92501d46c72e719e254047a46e668b5bba70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_3035474b5f053449a65cd7bff23f0a0dce0d4231.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6c609852222f4470283c259f940edb51961dfb18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_7bca6d601f05a0ccdca34f605a618525d9b1137a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_81b408be62e7bb1e5bfe041c320adf1d485db6cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_e6d14d86a629416c992ee12de75dce4d5cff917f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_e63a2bbbc1546a54031c0dd392c8508c584cd3ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a6f09f99a4d0613e5087764f2f004534dead2cf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_43b3aae2db0a104f5ef7b4b1f63b63d5ff2f05e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gursimran Singh\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.7.3\92568d7167ce1bf9eb1fd815b022d5a2c113547a\jsoup-1.7.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="92568d7167ce1bf9eb1fd815b022d5a2c113547a">
+        <dex dex="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\pre-dexed\debug\jsoup-1.7.3_57191fc89bfafa4f3437726b772354bd96d366d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_9056c74896826b77ed2c7a3e62be6cb53f251918.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.1_a380ca2803478935fea726ed7f6dbce2589fcf84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9ef8a523fdcccd3c7e8209fe17864f96e6696f88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_c163fcacb6aa775a0c455d26b438e396ced6a578.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_f3b39ce8b5da714150bb11b2f46b643a3818ac50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_10cd953c940accdea77ebb67004f63b8f836c70e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_713798f93ed3359fd6e779900a92461d43185486.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\IIITD_SemV\MC\android_code\AsyncTaskDemo_(MC_Assign5)\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_bd6afb73a06f55345f28fe5c87e9fdd0702284f7.jar" />
+    </item>
+
+</items>
